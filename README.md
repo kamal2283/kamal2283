@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamal2283
 - 👀 I’m interested in blockchian development 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Web3, Machine Learning and Neural Networks
 - 💞️ I’m looking to collaborate on google
 - 📫 How to reach me email me on shahkamal2283@gmail.com
 
